@@ -1,5 +1,5 @@
 # ---------------------------
-# Developed by Marcelo Bueno & Chatgpt for Banco Pichincha 
+# Developed by Marcelo Bueno 
 # ---------------------------
 
 import requests
@@ -245,3 +245,4 @@ if __name__ == "__main__":
 
     print("Authentication successful. Proceeding with config")
     read_csv_and_create_config(csv_file, apic_url, auth_token, DRY_RUN)
+
