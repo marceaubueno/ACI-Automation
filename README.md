@@ -1,5 +1,5 @@
 # ---------------------------
-# This script is intended to configure Cisco ACI Port Selectors with a description only, for circumstances where you need to reserve and preconfigure ports on ACI leaf switches for future use. 
+# This script is intended to configure Cisco ACI Port Selectors with a description only, for circumstances where you need to reserve and preconfigure ports on ACI non modular leaf switches for future use. 
 # ---------------------------
 # Considerations:
 # 1. We configure an interface selector with a port block and description
